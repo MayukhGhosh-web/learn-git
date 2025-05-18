@@ -20,3 +20,4 @@ how to use Git at your early stage
 16. To change branch, we need to use "git checkout main".
 17. To merge the new branch, we need to click the link which appeared after pushing into new branch.
 18. Now we get a push request at github, we confirm the request and merge into the main branch. 
+19. Making changes to Readme file as Tamajit.
